@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "922140619495",
+    "firebase_url": "https://chatmessageapp-7f009.firebaseio.com",
+    "project_id": "chatmessageapp-7f009",
+    "storage_bucket": "chatmessageapp-7f009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922140619495:android:36474cf1ef744a1c",
+        "android_client_info": {
+          "package_name": "rasheedcorp.assignment5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922140619495-m8iap1ebvgje3kog1qsbdesift81li7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rasheedcorp.assignment5",
+            "certificate_hash": "fbabe22dfab9c136f24649a0e28240958146ef4c"
+          }
+        },
+        {
+          "client_id": "922140619495-q0ffd08pc5qoau948nnfba76its27318.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF1cJj6e4YbwClhQA3Ae8J-1UABSzSP_g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922140619495-q0ffd08pc5qoau948nnfba76its27318.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

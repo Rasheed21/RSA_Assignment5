@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Rasheeds Chat</string>
+    <item name="messsage_user" type="id" />
+    <item name="messsage_text" type="id" />
+    <item name="messsage_time" type="id" />
+</resources>
